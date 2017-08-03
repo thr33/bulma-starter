@@ -1,10 +1,11 @@
 # bulma-starter
-Starter Template for bulma
 
-It is an awesome css framework and need more examples like bootstrap.
+قالب بداية لـ بولما
 
-### bulma
+
+### bulma بولما
 [bulma](http://bulma.io/) is a modern CSS framework based on Flexbox
+مشابهه لبوتستراب ولكنها أروع من وجهة نظري
 
 
 ### Screenshot
